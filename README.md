@@ -28,3 +28,8 @@ body > .skiptranslate {
 }
 
 ```
+
+# if you don't want to update any thing by google tranlater then add this class 
+```css
+class = " notranslate "
+```
